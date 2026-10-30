@@ -1,0 +1,6 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/verify/:id", "destination": "/index.html" }
+  ]
+}
